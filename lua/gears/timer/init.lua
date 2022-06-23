@@ -6,7 +6,7 @@
 ---
 --- [See all contributors on GitHub](https://github.com/awesomeWM/awesome/graphs/contributors)
 ---
---- [View documents](https://awesomewm.org/apidoc/utility_libraries/gears.protected_call.html)
+--- [View documents](https://awesomewm.org/apidoc/utility_libraries/gears.timer.html)
 --- @module "gears.timer"
 local GTiming = {
   timer = {
