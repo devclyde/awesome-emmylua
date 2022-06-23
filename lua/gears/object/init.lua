@@ -100,4 +100,4 @@ function Object:disconnect_signal(name, action) end
 --- [View documents](https://awesomewm.org/apidoc/utility_libraries/gears.object.html#emit_signal)
 function Object:emit_signal(name, ...) end
 
-return GObject
+return GObject.object
