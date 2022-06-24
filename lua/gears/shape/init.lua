@@ -37,6 +37,7 @@
 --- [See all contributors on GitHub](https://github.com/awesomeWM/awesome/graphs/contributors)
 ---
 --- [View documents](https://awesomewm.org/apidoc/theme_related_libraries/gears.shape.html)
+--- @module "gears.shape"
 local GShape = {}
 
 --- ### Description
