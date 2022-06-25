@@ -14,7 +14,7 @@ We work with Lua using the LSP server [`lua-language-server`](https://github.com
 - First, clone that repository somewhere on your disk using Git:
 
 ```sh
-git clone https://github.com/awchad/awesome-emmylua /.local/share/awesome-emmylua
+git clone https://github.com/awchad/awesome-emmylua ~/.local/share/awesome-emmylua
 ```
 - If your Lua project folder doesn't have a `.luarc.json`, create one and paste the following lines:
 ```
@@ -27,7 +27,7 @@ git clone https://github.com/awchad/awesome-emmylua /.local/share/awesome-emmylu
     "root"
   ],
   "workspace.library": [
-    "/home/<your-username-here>/.local/share/awesome-emmylua/lua"
+    "~/.local/share/awesome-emmylua/lua"
   ]
 }
 ```
