@@ -22,9 +22,11 @@ git clone https://github.com/awchad/awesome-emmylua ~/.local/share/awesome-emmyl
   "diagnostics.globals": [
     "awesome",
     "client",
+    "mouse",
+    "mousegrabber",
+    "root",
     "screen",
-    "tag",
-    "root"
+    "tag"
   ],
   "workspace.library": [
     "~/.local/share/awesome-emmylua/lua"
